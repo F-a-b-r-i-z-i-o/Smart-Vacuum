@@ -4,7 +4,8 @@ Vacuum Cleaner is a typical domain of artificial intelligence in which you imagi
 The condition of the rooms and the initial and final positions of the robot are encoded through a capital letter according to the legend:
 - S (Start): initial position of the robot
 - F (Finish) : final position of the robot
-- 
+
+
 - X : room not accessible
 - C (Clean) : clean room
 - D (Dirty) : dirty room
